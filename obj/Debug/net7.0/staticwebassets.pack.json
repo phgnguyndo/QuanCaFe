@@ -1,0 +1,105 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\clonePr\\QuanLiQuanCafe\\QuanLiQuanCafe\\wwwroot\\Images\\6ea542cf2be4fbbaa2f5.jpg",
+      "PackagePath": "staticwebassets\\Images\\6ea542cf2be4fbbaa2f5.jpg"
+    },
+    {
+      "Id": "D:\\clonePr\\QuanLiQuanCafe\\QuanLiQuanCafe\\wwwroot\\Images\\7756c0c1b09960c73988.jpg",
+      "PackagePath": "staticwebassets\\Images\\7756c0c1b09960c73988.jpg"
+    },
+    {
+      "Id": "D:\\clonePr\\QuanLiQuanCafe\\QuanLiQuanCafe\\wwwroot\\Images\\Anh-hoa-Cuc-trang-1.webp",
+      "PackagePath": "staticwebassets\\Images\\Anh-hoa-Cuc-trang-1.webp"
+    },
+    {
+      "Id": "D:\\clonePr\\QuanLiQuanCafe\\QuanLiQuanCafe\\wwwroot\\Images\\Nganchaytoi.jfif",
+      "PackagePath": "staticwebassets\\Images\\Nganchaytoi.jfif"
+    },
+    {
+      "Id": "D:\\clonePr\\QuanLiQuanCafe\\QuanLiQuanCafe\\wwwroot\\Images\\Nitro_Wallpaper_5000x2813.jpg",
+      "PackagePath": "staticwebassets\\Images\\Nitro_Wallpaper_5000x2813.jpg"
+    },
+    {
+      "Id": "D:\\clonePr\\QuanLiQuanCafe\\QuanLiQuanCafe\\wwwroot\\Images\\b4458cc8e4e334bd6df2.jpg",
+      "PackagePath": "staticwebassets\\Images\\b4458cc8e4e334bd6df2.jpg"
+    },
+    {
+      "Id": "D:\\clonePr\\QuanLiQuanCafe\\QuanLiQuanCafe\\wwwroot\\Images\\ca-phe-che-phin-558938j18888.webp",
+      "PackagePath": "staticwebassets\\Images\\ca-phe-che-phin-558938j18888.webp"
+    },
+    {
+      "Id": "D:\\clonePr\\QuanLiQuanCafe\\QuanLiQuanCafe\\wwwroot\\Images\\de642b0342289276cb39.jpg",
+      "PackagePath": "staticwebassets\\Images\\de642b0342289276cb39.jpg"
+    },
+    {
+      "Id": "D:\\clonePr\\QuanLiQuanCafe\\QuanLiQuanCafe\\wwwroot\\Images\\imager_6_6789_700.jpg",
+      "PackagePath": "staticwebassets\\Images\\imager_6_6789_700.jpg"
+    },
+    {
+      "Id": "D:\\clonePr\\QuanLiQuanCafe\\QuanLiQuanCafe\\wwwroot\\Images\\images (1).jfif",
+      "PackagePath": "staticwebassets\\Images\\images (1).jfif"
+    },
+    {
+      "Id": "D:\\clonePr\\QuanLiQuanCafe\\QuanLiQuanCafe\\wwwroot\\Images\\images (2).jfif",
+      "PackagePath": "staticwebassets\\Images\\images (2).jfif"
+    },
+    {
+      "Id": "D:\\clonePr\\QuanLiQuanCafe\\QuanLiQuanCafe\\wwwroot\\Images\\nen-uong-tra-da-khong.webp",
+      "PackagePath": "staticwebassets\\Images\\nen-uong-tra-da-khong.webp"
+    },
+    {
+      "Id": "D:\\clonePr\\QuanLiQuanCafe\\QuanLiQuanCafe\\wwwroot\\Images\\tải xuống (1).jfif",
+      "PackagePath": "staticwebassets\\Images\\tải xuống (1).jfif"
+    },
+    {
+      "Id": "D:\\clonePr\\QuanLiQuanCafe\\QuanLiQuanCafe\\wwwroot\\Images\\tải xuống (2).jfif",
+      "PackagePath": "staticwebassets\\Images\\tải xuống (2).jfif"
+    },
+    {
+      "Id": "D:\\clonePr\\QuanLiQuanCafe\\QuanLiQuanCafe\\wwwroot\\Images\\tải xuống (3).jfif",
+      "PackagePath": "staticwebassets\\Images\\tải xuống (3).jfif"
+    },
+    {
+      "Id": "D:\\clonePr\\QuanLiQuanCafe\\QuanLiQuanCafe\\wwwroot\\Images\\tải xuống (4).jfif",
+      "PackagePath": "staticwebassets\\Images\\tải xuống (4).jfif"
+    },
+    {
+      "Id": "D:\\clonePr\\QuanLiQuanCafe\\QuanLiQuanCafe\\wwwroot\\Images\\tải xuống (5).jfif",
+      "PackagePath": "staticwebassets\\Images\\tải xuống (5).jfif"
+    },
+    {
+      "Id": "D:\\clonePr\\QuanLiQuanCafe\\QuanLiQuanCafe\\wwwroot\\Images\\tải xuống (6).jfif",
+      "PackagePath": "staticwebassets\\Images\\tải xuống (6).jfif"
+    },
+    {
+      "Id": "D:\\clonePr\\QuanLiQuanCafe\\QuanLiQuanCafe\\wwwroot\\Images\\tải xuống (7).jfif",
+      "PackagePath": "staticwebassets\\Images\\tải xuống (7).jfif"
+    },
+    {
+      "Id": "D:\\clonePr\\QuanLiQuanCafe\\QuanLiQuanCafe\\wwwroot\\Images\\tải xuống.jfif",
+      "PackagePath": "staticwebassets\\Images\\tải xuống.jfif"
+    },
+    {
+      "Id": "D:\\clonePr\\QuanLiQuanCafe\\QuanLiQuanCafe\\wwwroot\\Images\\yasuo-chan-long-kiem.jpg",
+      "PackagePath": "staticwebassets\\Images\\yasuo-chan-long-kiem.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.QuanLiQuanCafe.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.QuanLiQuanCafe.props",
+      "PackagePath": "build\\QuanLiQuanCafe.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.QuanLiQuanCafe.props",
+      "PackagePath": "buildMultiTargeting\\QuanLiQuanCafe.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.QuanLiQuanCafe.props",
+      "PackagePath": "buildTransitive\\QuanLiQuanCafe.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
